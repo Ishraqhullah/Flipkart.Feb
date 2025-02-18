@@ -13,7 +13,7 @@ public class ToOpenBlankBrowser {
 		driver.get("https://www.flipkart.com/");
 		System.out.println(driver.getWindowHandle());
 		
-		
+		System.out.println("Updated one");
 		
 	
 		
